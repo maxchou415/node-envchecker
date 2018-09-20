@@ -1,6 +1,11 @@
 # node-envchecker
 The npm module to check required environment variables but which is lost.
 
+# Installation
+```
+$ npm install node-envchecker --save
+```
+
 # Example
 
 ```javascript
