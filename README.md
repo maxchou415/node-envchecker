@@ -4,7 +4,7 @@ The npm module to check required environment variables but which is lost.
 # Example
 
 ```javascript
-const envChecker = required('requiredenvchecker')
+const envChecker = required('node-envchecker')
 
 // Set up your required variables
 const variables = ['token', 'password', 'db']
