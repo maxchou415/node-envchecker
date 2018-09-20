@@ -1,4 +1,4 @@
-# requiredEnv
+# node-envchecker
 The npm module to check required environment variables but which is lost.
 
 # Example
