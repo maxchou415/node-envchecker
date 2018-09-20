@@ -1,5 +1,5 @@
 {
-  "name": "requiredenv",
+  "name": "requiredenvchecker",
   "version": "1.0.0",
   "description": "The npm module to check required environment variables but which is lost.",
   "main": "index.js",
