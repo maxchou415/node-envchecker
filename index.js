@@ -9,7 +9,7 @@ module.exports = function (variables) {
   var env = process.env
   var lostItems = []
 
-  variables.forEach((variable) => {
+  variables.forEach(function (variable) {
     if (!env[variable]) {
       lostItems.push(variable)
     }

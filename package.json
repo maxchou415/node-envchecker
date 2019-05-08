@@ -1,6 +1,6 @@
 {
   "name": "node-envchecker",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The npm module to check required environment variables but which is lost.",
   "main": "index.js",
   "scripts": {
