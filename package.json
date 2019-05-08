@@ -1,12 +1,12 @@
 {
   "name": "node-envchecker",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The npm module to check required environment variables but which is lost.",
   "main": "index.js",
   "scripts": {
     "test": "token=1 password=2 node test"
   },
-  "author": "Max Yi-Hsun Chou",
+  "author": "Max Yi-Hsun Chou <maxchou415@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/maxchou415/node-envchecker"
 }
